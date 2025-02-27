@@ -11,3 +11,8 @@ var/
 .vs/
 **.DS_Store
 *.pyc
+
+data/glove/
+data/sift/
+data/gist/
+data/deep/
